@@ -4,7 +4,7 @@ This organization is meant to have a common place for sharing code using dlib.
 
 Here we discuss the main guidelines and code of conduct
 
-## How do I get it?
+## How do I get in?
 
 Open an issue here requesting for access.
 
